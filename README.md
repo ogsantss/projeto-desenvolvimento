@@ -31,9 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online]
-<a href="file:///C:/Users/gabri/OneDrive/Imagens/vs%20code/index.html"></a>
-
 
 ## 🔖 Layout
 
